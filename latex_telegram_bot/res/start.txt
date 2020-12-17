@@ -1,0 +1,2 @@
+Hello, this bot will help you convert <b>latex</b> to <b>png</b>
+Just send him any valid tex and it will give you png image!

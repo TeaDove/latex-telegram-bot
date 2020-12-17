@@ -1,0 +1,3 @@
+<b>/p</b> - compile latex to png and send
+<b>/s (int)</b> - same as p, but with custom scale of png, i.e. /s 10 \frac{1}{2} will use 10 scale
+<b>/help</b> - show this message
