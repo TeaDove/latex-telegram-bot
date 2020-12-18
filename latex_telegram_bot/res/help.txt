@@ -1,3 +1,6 @@
-<b>/p</b> - compile latex to png and send
-<b>/s (int)</b> - same as p, but with custom scale of png, i.e. /s 10 \frac{1}{2} will use 10 scale
+<b>/d</b> - compile latex to image and send, will use chat settings
+<b>/p</b> - send as png
+<b>/s</b> - send as svg
+<b>/ps (int)</b> - send as png with custom scale size
+<b>/setting</b> - change default setting. Uniqe for chat, not user!
 <b>/help</b> - show this message

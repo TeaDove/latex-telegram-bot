@@ -1,5 +1,6 @@
 .idea
-latex_telegram_bot/tmp
+latex_telegram_bot/tmp/image.png
+latex_telegram_bot/tmp/image.svg
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
