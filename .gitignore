@@ -1,6 +1,9 @@
 .idea
 latex_telegram_bot/tmp/image.png
 latex_telegram_bot/tmp/image.svg
+latex_telegram_bot/secrets/config.ini
+latex_telegram_bot/texput.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

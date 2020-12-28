@@ -91,7 +91,7 @@ async def echo(message: types.Message):
         else:
             await message.reply_document(open('tmp/image.svg', 'rb'))
     else:
-        await message.reply(f'Compile error\n')
+        await message.reply(f'Compile error\n, {err}')
 
 if __name__ == '__main__':
     executor.start_polling(dp, skip_updates=True)
